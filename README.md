@@ -1,6 +1,6 @@
 # FarturaHub
 
-### :beginner: Link alternativo para o repositório front-end: https://github.com/murilo-pm/fartura_hub-back-end
+### :beginner: Link alternativo para o repositório front-end: https://github.com/murilo-pm/fartura_hub-front-end
 ### :information_source: Link do site: https://farturahub.herokuapp.com/#/sobre-nos
 
 ### História
